@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>materials on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/materials/</link>
+    <description>Recent content in materials on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 07 Apr 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/materials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>🎨 Materials - Physics</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/template/materials/mats-physics/</link>
+        <pubDate>Tue, 07 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Tue, 07 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/template/materials/mats-physics/</guid>
+        <description>About A collection of materials based on the default PhysicValues.txt that comes with the Visual Pinball build.
+Objects can assign a Physics Material to ovverride the physics values on the object helping you keep table physics managed and editable from material editor.
+Materials Included a_physics_MetalGuide.mat a_physics_MetalWall.mat a_physics_Plastic.mat a_physics_Rubber.mat a_physics_RubberPost.mat a_physics_TargetMetal.mat a_physics_TargetPlastic.mat a_physics_Wood.mat   Download Download mats-physics.7z</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.comimages/vp/vp-physics.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>materials</category>
+            
+          
+            
+              <category>physics</category>
+            
+          
+        
+        
+          
+            
+              <category>download</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

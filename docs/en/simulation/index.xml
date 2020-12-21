@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Simulation on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/simulation/</link>
+    <description>Recent content in Simulation on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 21 May 2020 13:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/simulation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Visual Pinball</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/</link>
+        <pubDate>Thu, 21 May 2020 13:00:00 +0000</pubDate>
+        
+        
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/</guid>
+        <description>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines.
+The software is composed of an editor and the simulator part itself. It runs on Microsoft Windows.
+The program is also able to operate with Visual PinMAME, an emulator for ROM images from real pinball Wikipedia
+Downloads of the software can be made at VPForums</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

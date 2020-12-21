@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>scoop on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/scoop/</link>
+    <description>Recent content in scoop on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 04 May 2020 19:00:06 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/scoop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>📜 Core.vbs - cvpmSaucer</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/scripting/core-vbs-cvpmsaucer/</link>
+        <pubDate>Mon, 04 May 2020 19:00:06 +0000</pubDate>
+        
+        <atom:modified>Mon, 04 May 2020 19:00:06 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/scripting/core-vbs-cvpmsaucer/</guid>
+        <description>cvpmSaucer Examples This table is a follow up to the Trough example. link.
+Saucers can be used for a range of Visual Pinball devices.
+Class and member Reference link
+Saucer Cup  Launch the ball with Enter (PlungerKey) to enter the saucer and exit as soon as hit.  Download Saucer (Std)
+fflips_corevbs_saucer.7z
+VUK - Vertical Up Kicker  Launch the ball with Enter (PlungerKey) to enter the saucer and launch it vertically  Download Saucer - Vertical Up kicker (VUK)</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.comimages/vp/corevbs/vuk-ball-in-play.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>kicker</category>
+            
+          
+            
+              <category>saucer</category>
+            
+          
+            
+              <category>scripting</category>
+            
+          
+            
+              <category>scoop</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>vuk</category>
+            
+          
+        
+        
+          
+            
+              <category>download</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>📜 Core.vbs - cvpmImpulseP</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/scripting/core-vbs-cvpmimpulsep/</link>
+        <pubDate>Mon, 04 May 2020 13:00:06 +0000</pubDate>
+        
+        <atom:modified>Mon, 04 May 2020 13:00:06 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/scripting/core-vbs-cvpmimpulsep/</guid>
+        <description>cvpmImpulseP Examples This table is a follow up to the Trough example. link.
+We use the trigger, shooterLane here to assign to a cvpmImpulseP named impulseP
+Class and member Reference link
+Auto-Plunger  Pushing the Enter (PlungerKey) will fire the ball.  Download fflips_corevbs_autoplunger.7z</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.comimages/vp/corevbs.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>kicker</category>
+            
+          
+            
+              <category>saucer</category>
+            
+          
+            
+              <category>scripting</category>
+            
+          
+            
+              <category>scoop</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>vuk</category>
+            
+          
+        
+        
+          
+            
+              <category>download</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

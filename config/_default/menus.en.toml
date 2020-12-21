@@ -1,0 +1,24 @@
+
+[[main]]
+  parent = "Emulation"
+  name = "Visual PinMame"
+  url = "emulation/vpinmame"
+  weight = 10
+
+[[main]]
+  parent = "Simulation"
+  name = "Visual Pinball"
+  url = "simulation/visualpinball"
+  weight = 0
+
+[[main]]
+  identifier = "history"
+  name = "Recent flips"
+  url = "history"
+  weight = 10
+
+[[main]]
+  parent = "Simulation"
+  name = "VPX Api"
+  url = "simulation/visualpinball/vp-api-ref/"
+  weight = 0

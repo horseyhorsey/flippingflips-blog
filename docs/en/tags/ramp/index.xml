@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ramp on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/ramp/</link>
+    <description>Recent content in ramp on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 21 May 2020 13:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/ramp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>🏗️ FP to VP SciFi Classic Part 3 - Script converting</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-3/</link>
+        <pubDate>Thu, 21 May 2020 13:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 21 May 2020 13:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-3/</guid>
+        <description>SciFi Classic Issues  Add Trigger named DummyTrigger Add vars for BulbOn, BulbOff, BulbBlink Replace FlashForMs with Light.Duration startState, duration, endState Lights need naming UserData should be replaced with UserValue No Set methods for timers Expired should be replaced with _Timer on methods PlayMusic doesn&amp;rsquo;t have channels in VP EffectMusic doesn&amp;rsquo;t exist Dropped to IsDropped  </description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fpconvert/scifi-vp-lighting.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp</category>
+            
+          
+            
+              <category>wire</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ FP to VP SciFi Classic Part 2 - Playfield mesh and holes</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-2/</link>
+        <pubDate>Wed, 20 May 2020 19:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 20 May 2020 19:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-2/</guid>
+        <description>SciFi Classic For this guide we&amp;rsquo;ll show one way of cutting holes into your playfield.
+Blender Selecting objects to cut from With the table open in Blender:
+ Z to view wire frame to make it easier to see what we need to select Num7 to get into Top Ortho Select all the ornholes you need. Ctrl-J to join the holes We&amp;rsquo;ve renamed the join to !OrnHoles for easy access in the tree  Using modifier to cut  Z to come out of wireframe and select the playfield mesh on its own.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fpconvert/scifi-vp-lighting.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp</category>
+            
+          
+            
+              <category>wire</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ FP to VP SciFi Classic Part 1 - Converting FP layers to VP</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-1/</link>
+        <pubDate>Wed, 20 May 2020 17:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 20 May 2020 17:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-1/</guid>
+        <description>SciFi Classic For this guide we&amp;rsquo;re going to convert the game that was shipped with Future Pinball on their website.
+Sci-Fi Classic 
+Credits----------Table Design and Graphics by: Matt EllisCoding by: Christopher LeathleyMusic by: Scott HaagThis game, as many others are unplayable for us in Future Pinball. The physics are that bad and if you want a simulation you will be frustated if you&amp;rsquo;re used to playing any real world machine.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fpconvert/scifi-vp-playable-whitewood.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp</category>
+            
+          
+            
+              <category>wire</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 4b - Future Pinball wire ramps to VP</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-fp-wireramps/</link>
+        <pubDate>Mon, 18 May 2020 17:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 18 May 2020 17:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-fp-wireramps/</guid>
+        <description>Create ramps in Future Pinball We&amp;rsquo;ve created two ramps in FP. One ramp is just a connection Vertical Up Kicker
+Wire ramp table Future Pinball table Download
+Blender Edit Wire Ramp  Import the FP table into Blender 2.7   Select every part of the ramp with Shift + Right Click. Selecting all rings, guides.   Alt + C and convert to mesh.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fp/fp-wire-ramps-vp-player.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp</category>
+            
+          
+            
+              <category>wire</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

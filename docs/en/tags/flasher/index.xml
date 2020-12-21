@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>flasher on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/flasher/</link>
+    <description>Recent content in flasher on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 11 Apr 2020 08:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/flasher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>📝 Visual Pinball Api</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/vp-api-ref/</link>
+        <pubDate>Sat, 11 Apr 2020 08:00:06 +0900</pubDate>
+        
+        <atom:modified>Sat, 11 Apr 2020 08:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/vp-api-ref/</guid>
+        <description>The API references have been created from the CommandReference.txt from VPX 6.0 build of Visual Pinball.
+They can be used in Visual Pinballs script to interact with table objects.
+Variables starting with a (*) can&amp;rsquo;t be changed by the script (most can be read though) or don&amp;rsquo;t have an effect.
+Global Global Keys    Name     *LeftFlipperKey   *RightFlipperKey   *LeftTiltKey   *RightTiltKey   *CenterTiltKey   *PlungerKey   *StartGameKey   *AddCreditKey   *AddCreditKey2   *LeftMagnaSave   *RightMagnaSave   *LockbarKey    Global Methods    Name Description     GetBalls(Ball) returns all Balls on the table   GetElements(Editable) returns all Elements on the table   GetElementByName(string) returns a certain Element, based on the name   FireKnocker(int Count)    LoadValue(string,string,VARIANT) load a value for tablename,valuename,value   MaterialColor(string,OLE_COLOR) change base color of a material   Nudge(float Angle, float Force)    NudgeGetCalibration/NudgeSetCalibration(int XMax, int YMax, int XGain, int YGain, int DeadZone, int TiltSensitivty)    NudgeSensorStatus(VARIANT *XNudge, VARIANT *YNudge)    NudgeTiltStatus(VARIANT *XPlumb, VARIANT *YPlumb, VARIANT *TiltPercent)    SaveValue(string,string,VARIANT) save a value for tablename,valuename,value   QuitPlayer(int CloseType)    UpdateMaterial(string, float wrapLighting, float roughness, float glossyImageLerp, float thickness, float edge, float edgeAlpha, float opacity, OLE_COLOR base, OLE_COLOR glossy, OLE_COLOR clearcoat, VARIANT_BOOL isMetal, VARIANT_BOOL opacityActive, float elasticity, float elasticityFalloff, float friction, float scatterAngle) updates all parameters of a material (same input ranges as used in the material editor)   UserDirectory(string)    Version returns VP_VERSION_MAJOR * 1000 + VP_VERSION_MINOR * 100 + VP_VERSION_REVISION   VPBuildVersion same, deprecated   VersionMajor major VP version number   VersionMinor minor VP version number   VersionRevision VP version revision    Global Properties    Name Type Description Default     *GameTime int Gets the current internal game time in milliseconds    *GetCustomParam int - 1.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.comimages/vp/visual-pinball-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>audio</category>
+            
+          
+            
+              <category>backglass</category>
+            
+          
+            
+              <category>ball</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>flasher</category>
+            
+          
+            
+              <category>flipper</category>
+            
+          
+            
+              <category>gate</category>
+            
+          
+            
+              <category>Kicker</category>
+            
+          
+            
+              <category>light</category>
+            
+          
+            
+              <category>physics</category>
+            
+          
+            
+              <category>plunger</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp- reel</category>
+            
+          
+            
+              <category>rubber</category>
+            
+          
+            
+              <category>scripting</category>
+            
+          
+            
+              <category>spinner</category>
+            
+          
+            
+              <category>switch</category>
+            
+          
+            
+              <category>table</category>
+            
+          
+            
+              <category>target</category>
+            
+          
+            
+              <category>textbox</category>
+            
+          
+            
+              <category>timer</category>
+            
+          
+            
+              <category>trigger</category>
+            
+          
+            
+              <category>wall</category>
+            
+          
+        
+        
+          
+            
+              <category>visual pinball</category>
+            
+          
+            
+              <category>vpx-api</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

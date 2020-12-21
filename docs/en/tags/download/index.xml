@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>download on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/download/</link>
+    <description>Recent content in download on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 16 Apr 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/download/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>⚽ Balls - Ball decals and images</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/ball-decals-images/</link>
+        <pubDate>Thu, 16 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Thu, 16 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/ball-decals-images/</guid>
+        <description>Make sure we have the ball_HDR that is shipped with Visual Pinball templates to use as our ball image.
+Ball decal tests All these tests will have logo mode selected because we want to see the ball spin 🌀
+Try higher quality images for better results.
+Sphere texture Ok when spinning but not magic with the jaggy seam.
+Predator texture Wood panel texture Looks like a nut but perfect seam.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/balls/lfc-ball-vp.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ball</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>download</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
