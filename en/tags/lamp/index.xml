@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>lamp on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/lamp/</link>
+    <description>Recent content in lamp on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 20 Apr 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/lamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>🏬 Decals Part 2. 💡 Lamps</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decals-trans-image-lights/</link>
+        <pubDate>Mon, 20 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Mon, 20 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decals-trans-image-lights/</guid>
+        <description>Guide Outline  In this guide we&amp;rsquo;ll use the table template as a base table to work from but you can use any.
+ Download Template: Starter Blank Template
+VP Blueprint  Create a light on the table and assign to Layer 3. Set the light to blinking. Export the Blueprint with just the lights layer 3, solid or filled. See Blueprints on exporting blueprints from Visual Pinball  Inkscape  Open the Blueprint with Inkscape using default import resolution.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/blueprint/inkscape-decal-in-vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>lamp</category>
+            
+          
+            
+              <category>light</category>
+            
+          
+            
+              <category>playfield</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

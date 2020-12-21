@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>📰 Guides on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/</link>
+    <description>Recent content in 📰 Guides on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 21 May 2020 13:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/simulation/visualpinball/guides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>🏗️ FP to VP SciFi Classic Part 3 - Script converting</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-3/</link>
+        <pubDate>Thu, 21 May 2020 13:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 21 May 2020 13:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-3/</guid>
+        <description>SciFi Classic Issues  Add Trigger named DummyTrigger Add vars for BulbOn, BulbOff, BulbBlink Replace FlashForMs with Light.Duration startState, duration, endState Lights need naming UserData should be replaced with UserValue No Set methods for timers Expired should be replaced with _Timer on methods PlayMusic doesn&amp;rsquo;t have channels in VP EffectMusic doesn&amp;rsquo;t exist Dropped to IsDropped  </description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fpconvert/scifi-vp-lighting.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp</category>
+            
+          
+            
+              <category>wire</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ FP to VP SciFi Classic Part 2 - Playfield mesh and holes</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-2/</link>
+        <pubDate>Wed, 20 May 2020 19:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 20 May 2020 19:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-2/</guid>
+        <description>SciFi Classic For this guide we&amp;rsquo;ll show one way of cutting holes into your playfield.
+Blender Selecting objects to cut from With the table open in Blender:
+ Z to view wire frame to make it easier to see what we need to select Num7 to get into Top Ortho Select all the ornholes you need. Ctrl-J to join the holes We&amp;rsquo;ve renamed the join to !OrnHoles for easy access in the tree  Using modifier to cut  Z to come out of wireframe and select the playfield mesh on its own.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fpconvert/scifi-vp-lighting.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp</category>
+            
+          
+            
+              <category>wire</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ FP to VP SciFi Classic Part 1 - Converting FP layers to VP</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-1/</link>
+        <pubDate>Wed, 20 May 2020 17:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 20 May 2020 17:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/fp-to-vp-scifi-1/</guid>
+        <description>SciFi Classic For this guide we&amp;rsquo;re going to convert the game that was shipped with Future Pinball on their website.
+Sci-Fi Classic 
+Credits----------Table Design and Graphics by: Matt EllisCoding by: Christopher LeathleyMusic by: Scott HaagThis game, as many others are unplayable for us in Future Pinball. The physics are that bad and if you want a simulation you will be frustated if you&amp;rsquo;re used to playing any real world machine.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fpconvert/scifi-vp-playable-whitewood.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp</category>
+            
+          
+            
+              <category>wire</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 5 - Blender SVG - 3D Text</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-from-svg/</link>
+        <pubDate>Tue, 19 May 2020 16:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 19 May 2020 16:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-from-svg/</guid>
+        <description>Blender can import svg, so we could use this for lots of things like 3D text, making plastics layer from blueprints.
+We wanted some 3D text in a game that would stick out like the Hollywood sign. Seeing as this process has an extra step from objects with paths it was worth documenting.
+Inkscape Text We&amp;rsquo;ve opened Inkscape and created some text for our game.
+ The text can be any font size as you&amp;rsquo;ll be able to resize the mesh in Blender</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/3d-text-inkscape-blender6.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>inkscape</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>svg</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 4b - Future Pinball wire ramps to VP</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-fp-wireramps/</link>
+        <pubDate>Mon, 18 May 2020 17:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 18 May 2020 17:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-fp-wireramps/</guid>
+        <description>Create ramps in Future Pinball We&amp;rsquo;ve created two ramps in FP. One ramp is just a connection Vertical Up Kicker
+Wire ramp table Future Pinball table Download
+Blender Edit Wire Ramp  Import the FP table into Blender 2.7   Select every part of the ramp with Shift + Right Click. Selecting all rings, guides.   Alt + C and convert to mesh.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fp/fp-wire-ramps-vp-player.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>ramp</category>
+            
+          
+            
+              <category>wire</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 4a - Future Pinball to Blender - Create to match Visual Pinball Dimensions</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-fp-match-vp/</link>
+        <pubDate>Mon, 18 May 2020 16:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 18 May 2020 16:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-fp-match-vp/</guid>
+        <description>Why match dimensions? The reason we want to match the dimensions etc here is because we would like anything positioned in FP to match our VP table.
+Most objects should be a straight import to Blender and export to VP in correct position and size.
+VP Blueprint We start with our template again but the dimensions are the same as the default table.
+   Width Height     952 2162   20.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fp/fp-blender-scaled-to-vp-inplace.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 4 - Future Pinball to Blender</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-fp-blend-vp/</link>
+        <pubDate>Mon, 18 May 2020 13:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 18 May 2020 13:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-fp-blend-vp/</guid>
+        <description>Blender setup A script for Blender to import Future Pinball was made for the community of GoPinball and all others. It based on an implementation of LvR from PinSimDB.
+It will allow us to convert and import Future pinball into Blender.
+Issues Unfortunatley this plugin doesn&amp;rsquo;t work on Blender 2.8. We did try to update it but needed more than we wanted to get into.
+Blender 2.79b We have 2.8 installed, so we have picked the blender-2.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/fp/imported-vuk-demo-2.8.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>future pinball</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 3b - Texture minecraft block</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-textured-cube-2/</link>
+        <pubDate>Fri, 15 May 2020 12:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 15 May 2020 12:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-textured-cube-2/</guid>
+        <description>This is an extra guide to texturing the cube to show we can edit the UV and resuse.
+Create a new cube texture Using the [GIMP] create an empty texture 1024x1024.
+It&amp;rsquo;s better to have image at multiples of 2. We can also use the empty space for textures in other meshes later on.
+Add some minecraft blocks like so.
+In GIMP File &amp;gt; Export As and save to cube2.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/3d-texture-cubeb-5.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 3 - Texture the Blender cube and import to Visual Pinball</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-textured-cube/</link>
+        <pubDate>Fri, 15 May 2020 11:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 15 May 2020 11:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-textured-cube/</guid>
+        <description>TODO
+ Guide Outline  Export UV map Edit UV map  Export UV map Open up Blender and select the default cube. Click the UV Editing tab and you should see an already mapped out cube.
+ When we Face select the cube in Edit mode we can see each square that is mapped to the cube.
+  The bottom square is the top of the cube and the top square is the bottom.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/3d-texture-cube-5.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 2 - Import models created in Blender</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-import-obj-primitives/</link>
+        <pubDate>Fri, 15 May 2020 10:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 15 May 2020 10:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-import-obj-primitives/</guid>
+        <description>Visual pinball 10+ is able to import wavefront .obj models.
+ Following on from the previous guide have an imported table in Blender ready.
+Guide Outline  Create blender object Visual Pinball Primitive  Create blender object  Add a Cone mesh. Give it a radius of 2m and set the Z to 1m to fit on the playfield.   With cone selected export the obj as it is Change the options and save as preset vp-export-selection-only     Name Value     SelectionOnly Checked   Forward -Y Forward   Up -Z Up     Save the .</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/3d-add-cone-5.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🧬 Plastics - Creating plastic layer from blueprints</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/blueprints-plastics/</link>
+        <pubDate>Fri, 15 May 2020 08:40:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 15 May 2020 08:40:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/blueprints-plastics/</guid>
+        <description>We&amp;rsquo;ll use the blank template as a starter table Link
+ Adding Visual Pinball plastics Hide all layers except Layer 5, copy the Left Slingshot plastic and Paste as somewhere in the table.
+Unlock the new plastic we copied and create some random plastics by duplicating and adjusting the wall points.
+Export a solid blueprint.
+ More about blueprint here. Blueprints - Whitewood
+ Remove playfield background Open the image with GIMP.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/blueprint/plastic-layer-pre-bp.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>plastic</category>
+            
+          
+            
+              <category>wall</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ 3D Part 1- Export VP table to Blender</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-export-table-to-blender/</link>
+        <pubDate>Thu, 14 May 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Thu, 14 May 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-export-table-to-blender/</guid>
+        <description>Visual pinball 10+ is able to export the whole table as a wavefront .obj
+ Guide Outline  Export Table Load Table in Blender3D  Export Table  Export a table from Visual Pinball. File &amp;gt; Export &amp;gt; Mesh If layers are hidden then these are not included in the exported mesh.  Import To Blender  If you don&amp;rsquo;t have Blender installed it can be downloaded from here</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/vp-blender-imported.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏬 Decals Part 2. 💡 Lamps</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decals-trans-image-lights/</link>
+        <pubDate>Mon, 20 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Mon, 20 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decals-trans-image-lights/</guid>
+        <description>Guide Outline  In this guide we&amp;rsquo;ll use the table template as a base table to work from but you can use any.
+ Download Template: Starter Blank Template
+VP Blueprint  Create a light on the table and assign to Layer 3. Set the light to blinking. Export the Blueprint with just the lights layer 3, solid or filled. See Blueprints on exporting blueprints from Visual Pinball  Inkscape  Open the Blueprint with Inkscape using default import resolution.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/blueprint/inkscape-decal-in-vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>lamp</category>
+            
+          
+            
+              <category>light</category>
+            
+          
+            
+              <category>playfield</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏬 Decals Part 1. Transparent images from Inkscape</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decal-trans-image/</link>
+        <pubDate>Sat, 18 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Sat, 18 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decal-trans-image/</guid>
+        <description>A decal is one way of using images. We&amp;rsquo;ll create a very rough layout by hand in Inkscape
+ Shot layout Create a shot layout in Scalable Vector Graphics  Open a blueprint that was exported from Visual Pinball into Inkscape (not import) Keep the file dimensions when it asks Create bezier lines on a seperate layer for shot angles When happy hide the Blueprint layer Export the image as Page, checking the dimensions are in px and were the same dimesions as the blueprint.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/bp_shots_vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>inkscape</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>⚽ Balls - Ball decals and images</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/ball-decals-images/</link>
+        <pubDate>Thu, 16 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Thu, 16 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/ball-decals-images/</guid>
+        <description>Make sure we have the ball_HDR that is shipped with Visual Pinball templates to use as our ball image.
+Ball decal tests All these tests will have logo mode selected because we want to see the ball spin 🌀
+Try higher quality images for better results.
+Sphere texture Ok when spinning but not magic with the jaggy seam.
+Predator texture Wood panel texture Looks like a nut but perfect seam.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/balls/lfc-ball-vp.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ball</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>download</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🧬 Playfield - Whitewoods from VP blueprints</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/blueprints/</link>
+        <pubDate>Wed, 15 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Wed, 15 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/blueprints/</guid>
+        <description>Using a blueprint from Visual Pinball gives us image dimensions to start with.
+I&amp;rsquo;ve exported the p1-beachwood.png from the File &amp;gt; New &amp;gt; Example Table so it act as a whitewood
+We&amp;rsquo;ll use the blank template as a starter table Link
+Guide Outline 1. Create a blueprint
+2. Editing blueprint
+3. Using the whitewood
+Create the blueprint Exports can be done via the File Menu by selecting Export &amp;gt; Blueprint and saving the image.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/blueprint/vp_bp_loaded.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>playfield</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ Primitive - Inner cabinet Walls and Translite</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/primitive-walls-translite/</link>
+        <pubDate>Thu, 09 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Thu, 09 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/primitive-walls-translite/</guid>
+        <description>As a template already has an updated Primitive for walls, we&amp;rsquo;ll use the blank template as a starter table Link
+Guide Outline 1. Find the primitive
+2. Editing texture
+Primitive Find the WallsTranslite primitive (multiple options):
+ Use the Select option next to Maginify (Quickest with less objects in table) Or Use Ctrl+Shift+E to open Select Element and find in list to select Or Just show Layer 11 and select it from playfield.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/walls-translite-vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>translite</category>
+            
+          
+            
+              <category>wall</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

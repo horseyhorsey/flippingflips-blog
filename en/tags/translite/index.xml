@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>translite on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/translite/</link>
+    <description>Recent content in translite on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 09 Apr 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/translite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>🏗️ Primitive - Inner cabinet Walls and Translite</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/primitive-walls-translite/</link>
+        <pubDate>Thu, 09 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Thu, 09 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/primitive-walls-translite/</guid>
+        <description>As a template already has an updated Primitive for walls, we&amp;rsquo;ll use the blank template as a starter table Link
+Guide Outline 1. Find the primitive
+2. Editing texture
+Primitive Find the WallsTranslite primitive (multiple options):
+ Use the Select option next to Maginify (Quickest with less objects in table) Or Use Ctrl+Shift+E to open Select Element and find in list to select Or Just show Layer 11 and select it from playfield.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/walls-translite-vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>translite</category>
+            
+          
+            
+              <category>wall</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

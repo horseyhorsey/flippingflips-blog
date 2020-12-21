@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>cosmetic on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/cosmetic/</link>
+    <description>Recent content in cosmetic on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 15 May 2020 08:40:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/cosmetic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>🧬 Plastics - Creating plastic layer from blueprints</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/blueprints-plastics/</link>
+        <pubDate>Fri, 15 May 2020 08:40:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 15 May 2020 08:40:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/blueprints-plastics/</guid>
+        <description>We&amp;rsquo;ll use the blank template as a starter table Link
+ Adding Visual Pinball plastics Hide all layers except Layer 5, copy the Left Slingshot plastic and Paste as somewhere in the table.
+Unlock the new plastic we copied and create some random plastics by duplicating and adjusting the wall points.
+Export a solid blueprint.
+ More about blueprint here. Blueprints - Whitewood
+ Remove playfield background Open the image with GIMP.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/blueprint/plastic-layer-pre-bp.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>plastic</category>
+            
+          
+            
+              <category>wall</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏬 Decals Part 2. 💡 Lamps</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decals-trans-image-lights/</link>
+        <pubDate>Mon, 20 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Mon, 20 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decals-trans-image-lights/</guid>
+        <description>Guide Outline  In this guide we&amp;rsquo;ll use the table template as a base table to work from but you can use any.
+ Download Template: Starter Blank Template
+VP Blueprint  Create a light on the table and assign to Layer 3. Set the light to blinking. Export the Blueprint with just the lights layer 3, solid or filled. See Blueprints on exporting blueprints from Visual Pinball  Inkscape  Open the Blueprint with Inkscape using default import resolution.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/blueprint/inkscape-decal-in-vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>lamp</category>
+            
+          
+            
+              <category>light</category>
+            
+          
+            
+              <category>playfield</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏬 Decals Part 1. Transparent images from Inkscape</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decal-trans-image/</link>
+        <pubDate>Sat, 18 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Sat, 18 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decal-trans-image/</guid>
+        <description>A decal is one way of using images. We&amp;rsquo;ll create a very rough layout by hand in Inkscape
+ Shot layout Create a shot layout in Scalable Vector Graphics  Open a blueprint that was exported from Visual Pinball into Inkscape (not import) Keep the file dimensions when it asks Create bezier lines on a seperate layer for shot angles When happy hide the Blueprint layer Export the image as Page, checking the dimensions are in px and were the same dimesions as the blueprint.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/bp_shots_vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>inkscape</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>⚽ Balls - Ball decals and images</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/ball-decals-images/</link>
+        <pubDate>Thu, 16 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Thu, 16 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/ball-decals-images/</guid>
+        <description>Make sure we have the ball_HDR that is shipped with Visual Pinball templates to use as our ball image.
+Ball decal tests All these tests will have logo mode selected because we want to see the ball spin 🌀
+Try higher quality images for better results.
+Sphere texture Ok when spinning but not magic with the jaggy seam.
+Predator texture Wood panel texture Looks like a nut but perfect seam.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/balls/lfc-ball-vp.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>ball</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>download</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🧬 Playfield - Whitewoods from VP blueprints</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/blueprints/</link>
+        <pubDate>Wed, 15 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Wed, 15 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/blueprints/</guid>
+        <description>Using a blueprint from Visual Pinball gives us image dimensions to start with.
+I&amp;rsquo;ve exported the p1-beachwood.png from the File &amp;gt; New &amp;gt; Example Table so it act as a whitewood
+We&amp;rsquo;ll use the blank template as a starter table Link
+Guide Outline 1. Create a blueprint
+2. Editing blueprint
+3. Using the whitewood
+Create the blueprint Exports can be done via the File Menu by selecting Export &amp;gt; Blueprint and saving the image.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/blueprint/vp_bp_loaded.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>playfield</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏗️ Primitive - Inner cabinet Walls and Translite</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/primitive-walls-translite/</link>
+        <pubDate>Thu, 09 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Thu, 09 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/primitive-walls-translite/</guid>
+        <description>As a template already has an updated Primitive for walls, we&amp;rsquo;ll use the blank template as a starter table Link
+Guide Outline 1. Find the primitive
+2. Editing texture
+Primitive Find the WallsTranslite primitive (multiple options):
+ Use the Select option next to Maginify (Quickest with less objects in table) Or Use Ctrl+Shift+E to open Select Element and find in list to select Or Just show Layer 11 and select it from playfield.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/walls-translite-vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>translite</category>
+            
+          
+            
+              <category>wall</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

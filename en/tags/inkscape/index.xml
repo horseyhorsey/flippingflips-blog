@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>inkscape on Flipping Flips</title>
+    <link>https://blog.flippingflips.com/en/tags/inkscape/</link>
+    <description>Recent content in inkscape on Flipping Flips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 19 May 2020 16:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.flippingflips.com/en/tags/inkscape/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>🏗️ 3D Part 5 - Blender SVG - 3D Text</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-from-svg/</link>
+        <pubDate>Tue, 19 May 2020 16:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 19 May 2020 16:00:00 +0000</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/3d-from-svg/</guid>
+        <description>Blender can import svg, so we could use this for lots of things like 3D text, making plastics layer from blueprints.
+We wanted some 3D text in a game that would stick out like the Hollywood sign. Seeing as this process has an extra step from objects with paths it was worth documenting.
+Inkscape Text We&amp;rsquo;ve opened Inkscape and created some text for our game.
+ The text can be any font size as you&amp;rsquo;ll be able to resize the mesh in Blender</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/3d-text-inkscape-blender6.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>3D</category>
+            
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blender</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>inkscape</category>
+            
+          
+            
+              <category>primitive</category>
+            
+          
+            
+              <category>svg</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>🏬 Decals Part 1. Transparent images from Inkscape</title>
+        <link>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decal-trans-image/</link>
+        <pubDate>Sat, 18 Apr 2020 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Sat, 18 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://blog.flippingflips.com/en/simulation/visualpinball/guides/design/decal-trans-image/</guid>
+        <description>A decal is one way of using images. We&amp;rsquo;ll create a very rough layout by hand in Inkscape
+ Shot layout Create a shot layout in Scalable Vector Graphics  Open a blueprint that was exported from Visual Pinball into Inkscape (not import) Keep the file dimensions when it asks Create bezier lines on a seperate layer for shot angles When happy hide the Blueprint layer Export the image as Page, checking the dimensions are in px and were the same dimesions as the blueprint.</description>
+        
+        <dc:creator>flips-admin</dc:creator>
+        <media:content url="https://blog.flippingflips.com/images/guides/design/bp_shots_vp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>beginner</category>
+            
+          
+            
+              <category>blueprint</category>
+            
+          
+            
+              <category>cosmetic</category>
+            
+          
+            
+              <category>decal</category>
+            
+          
+            
+              <category>design</category>
+            
+          
+            
+              <category>inkscape</category>
+            
+          
+        
+        
+          
+            
+              <category>guides</category>
+            
+          
+            
+              <category>visual pinball</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
